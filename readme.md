@@ -5,10 +5,10 @@ The trophy uses open source code and hardware, so please hack it to make it do w
 There will be updates to this page in the coming weeks, but if you have any questions or comments, please initiate a "Issue" on github, and I will answer as soon as I can.
 
 With the demo code loaded, the trophy will boot to the 'award' screen.  
-Press buttons 'A' or 'B' to scroll through the menu.
-'A' and 'B' buttons serve as scrolling features through the submenus as well.
-The 'C' button is used as a 'select' button
-The 'D' button is used as a 'select' button during the 'Set Clock' Function
+Press buttons 'A' or 'B' to scroll through the menu.  
+'A' and 'B' buttons serve as scrolling features through the submenus as well.  
+The 'C' button is used as a 'select' button  
+The 'D' button is used as a 'select' button during the 'Set Clock' Function  
 
 When you go into the 'Demo Mode' Function, the program will loop forever.  To exit the loop, just press the reset button.
 
