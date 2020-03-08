@@ -1,5 +1,8 @@
 Thanks for visiting this page to learn more about your HATCH trophy!  
 
+View my YouTube video for a quick overview and demo:  
+https://www.youtube.com/watch?v=jdO1fBBoojo
+
 The trophy uses open source code and hardware, so please hack it to make it do what you want.  It comes loaded with some demo code to test each of the components.  
 
 There will be updates to this page in the coming weeks, but if you have any questions or comments, please initiate a "Issue" on github, and I will answer as soon as I can.  
